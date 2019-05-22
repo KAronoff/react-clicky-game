@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Twilight Sparkle",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/1/14/Twilight_heartfelt_happiness_S3E13.png/revision/latest/scale-to-width-down/267?cb=20130222014707",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Apple Jack",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/f/ff/Applejack_%22do_exactly_what_I_say%22_S5E24.png/revision/latest/scale-to-width-down/267?cb=20151123153336",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Flutter Shy",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/5/55/Fluttershy_rolling_her_eyes_S2E07.png/revision/latest/scale-to-width-down/209?cb=20121029094615",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Rarity",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/5/57/Rarity_%22to_give_it_enough_love%22_S5E14.png/revision/latest/scale-to-width-down/267?cb=20150915121053",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Pinky Pie",
+    "image": "https://mlp.fandom.com/wiki/Pinkie_Pie",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Rainbow Dash",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/c/c4/Rainbow_Dash_S2E7_thumb.png/revision/latest/scale-to-width-down/209?cb=20120821161947",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Spike",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/8/87/Spike_ID_S8E11.png/revision/latest/scale-to-width-down/125?cb=20180526160714",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Apple Bloom",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/1/1c/Apple_Bloom_ID_S6E4.png/revision/latest/scale-to-width-down/102?cb=20160411140505",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Scootaloo",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/5/5a/Scootaloo_ID_S6E4.png/revision/latest/scale-to-width-down/138?cb=20160411140522",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Sweetie Bell",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/f/f1/Sweetie_Belle_ID_S6E4.png/revision/latest/scale-to-width-down/130?cb=20160411140540",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Babs Seed",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/c/c0/Babs_Seed_ID_MLP_Facebook.png/revision/latest/scale-to-width-down/103?cb=20160220200508",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Gabby",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/e/ec/Gabby_ID_S6E19.png/revision/latest/scale-to-width-down/141?cb=20160910211625",
+    "clicked": false
+  },
+  {
+    "id": 13,
+    "name": "Princess Celestia",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/3/31/Celestia_talking_ID_S1E13.png/revision/latest/scale-to-width-down/120?cb=20110912074634",
+    "clicked": false
+  },
+  {
+    "id": 14,
+    "name": "Princess Luna",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/1/18/Princess_Luna_ID_S5E04.png/revision/latest/scale-to-width-down/148?cb=20150422172452",
+    "clicked": false
+  },
+  {
+    "id": 15,
+    "name": "Prince Blueblood",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/b/b9/Prince_Blueblood_ID_S1E03.png/revision/latest/scale-to-width-down/107?cb=20110510223111",
+    "clicked": false
+  },
+  {
+    "id": 16,
+    "name": "Shining Armor",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/2/29/Shining_Armor_ID_S5E19.png/revision/latest/scale-to-width-down/113?cb=20151026075733",
+    "clicked": false
+  },
+  {
+    "id": 17,
+    "name": "Princess Cadance",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/6/6f/Princess_Cadance_ID_S4E11.png/revision/latest/scale-to-width-down/108?cb=20140128163901",
+    "clicked": false
+  },
+  {
+    "id": 18,
+    "name": "Prince Rutherford",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/3/3e/Prince_Rutherford_ID_S5E11.png/revision/latest/scale-to-width-down/123?cb=20150630030726",
+    "clicked": false
+  },
+  {
+    "id": 19,
+    "name": "Flurry Heart",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/7/71/Flurry_Heart_ID_S6E1.png/revision/latest/scale-to-width-down/154?cb=20160327000953",
+    "clicked": false
+  },
+  {
+    "id": 20,
+    "name": "Embar",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/b/bc/Princess_Ember_ID_S6E5.png/revision/latest/scale-to-width-down/72?cb=20160418043217",
+    "clicked": false
+  },
+  {
+    "id": 21,
+    "name": "Princess Skystar",
+    "image": "https://vignette.wikia.nocookie.net/mlp/images/7/77/Princess_Skystar_ID_MLPTM.png/revision/latest/scale-to-width-down/105?cb=20171015024706",
+    "clicked": false
+  }
+]
