@@ -1,16 +1,18 @@
 import React from "react";
 import "./style.css"
 
+
+
 function Card (props){
   return (
-  <div className="card">
-    <div 
-    src={props.image}
-    alt={props.name}
-    onClick={() => props.handleCharachterClick(props.id)}
-    className="card-img-top">
+
+    <div className="col-2 col-md-2">
+    <div class="card">
+      <img src={props.image} className="card-img-top"
+      alt={props.name}
+      onClick={() => props.handleCharachterClick(props.id)}/>
     </div>
-  </div>
+    </div>
   )
 }
 

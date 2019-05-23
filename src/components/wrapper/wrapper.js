@@ -14,7 +14,11 @@ function Wrapper (props){
     
     </div>
   </div>
-  {props.children}
+  <div className="row">
+      {props.children}
+    
+  </div>
+  
   </div>
   )
 }
