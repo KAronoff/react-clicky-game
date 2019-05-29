@@ -6,10 +6,10 @@ function Wrapper (props){
   <div className="container">
   <div className="row">
     <div className="col-12 col-md-12">
-    <span>{props.currentScore}
+    <span>{`Current Score: ${props.currentScore}`}
     </span> || 
 
-    <span>{props.totalScore}
+    <span>{`High Score: ${props.highScore}`}
     </span>
     
     </div>
