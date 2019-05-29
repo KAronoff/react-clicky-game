@@ -13,19 +13,31 @@ class App extends React.Component {
   }
 
 handleCharachterClick = (characterListId) => {
-  const newCharacterList = this.state.characterList.forEach(element => {
-    if (characterListId === this.state.characterList.id){
-      if (this.state.characterList.clicked){
-        return this.setState({
-          characterList: newCharacterList
-        })
-      }
-      
-    }
+  let correctguess = false;
+  const newCharacterList = this.state.characterList.map(element => {
     
 
-  });
+    if (element.id === characterListId){
+      if (element.clicked === true){
+        return ;
+      }
+      else {
+        correctguess = true;
+        return ;
+      }
+    }
+    
+  })
+  correctguess ? this.handleCorrectGuess(newCharacterList) : this.handleIncorrectGuess(newCharacterList)
   
+}
+
+handleIncorrectGuess = (newCharacterList) => {
+  console.log("wrong")
+}
+
+handleCorrectGuess = (newCharacterList) => {
+  console.log("correct")
 }
 render (){
   return (
